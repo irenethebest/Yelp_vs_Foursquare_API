@@ -15,8 +15,6 @@ Goals: to retrieve data from Yelp and Foursquare APIs for the chosen area(Lakewo
 1) Yelp gives better/more accurate category information. (i.e. Chick-fil-a (fast food for Chicken sandwich) : Ramen(Foursquare)/fast food(yelp)) 
 2) Yelp has a rating and number of reviews information, so it generally gives better information for decision making. 
 3) In Park information Foursquare listed more parks(5), but the addresses were not shown accurately.  
-![image](https://user-images.githubusercontent.com/103957573/220197207-595a7cdb-fdd0-4369-a7ba-f8f2662cc80c.png)
-
 
 
 ## Challenges 
