@@ -1,6 +1,5 @@
 # Miniproject 2 - Yelp vs Foursquare API
 
-### [Assignment](assignment.md)
 
 ## Project/Goals
 Goals: to retrieve data from Yelp and Foursquare APIs for the chosen area(Lakewood, CO - I will be moving soon!) and compare the results(restuarants, bars, parks, dog parks, animal hospital, supermarket, etc.)  from those two APIs. 
