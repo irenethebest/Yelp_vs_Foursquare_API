@@ -1,4 +1,4 @@
-# Miniproject 2 - Yelp vs Foursquare API
+# Miniproject 2 - Yelp vs Foursquare APIs Comparison
 
 
 ## Project/Goals
